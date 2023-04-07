@@ -1,0 +1,28 @@
+
+ul{
+    background-color: rgb(56, 56, 56);
+    height:47px;
+    padding-left: 100px;
+    padding: 0;
+}
+.nave{
+    display: inline-block;
+    margin-top: 5px;
+}
+.nave a {
+    padding: 12px;
+    border: 1px solid rgb(255, 255, 255);
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    background-color:black;
+}
+/* .footer{
+    position:absolute;
+    bottom: 0;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    width: 100%;
+    text-align: center;
+} */
